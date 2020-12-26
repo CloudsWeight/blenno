@@ -1,5 +1,1 @@
-# blenno
-
-Usefuls Scripts
-
-Some focus on data science.  
+# Python 3 Tkinter gui learning the basics of windowing
